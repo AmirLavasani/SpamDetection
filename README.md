@@ -15,3 +15,11 @@ svm reached an average of 89 percent and the deep lstm model reached around 96 p
 
 # Models
 In the model folder you can find a pretrained model for tensorflow architecture. svm model will be uploaded soon. 
+
+# Requirements
+* polyglot
+* numpy
+* scikitlearn
+* tqdm
+* click
+* tensorflow > 1.2
