@@ -1,0 +1,2 @@
+model_checkpoint_path: "atf_model_best_error.ckpt"
+all_model_checkpoint_paths: "atf_model_best_error.ckpt"
